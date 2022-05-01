@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="ImageMap">
+	    <attr name="mapxml" format="reference"/>
+		<attr name="map" format="string"/>
+        <attr name="fitImageToScreen" format="boolean"/>
+        <attr name="scaleFromOriginal" format="boolean"/>
+        <attr name="maxSizeFactor" format="float"/>
+        <attr name="bubbleBackgroundColor" format="color"/>
+        <attr name="bubbleTextColor" format="color"/>
+	</declare-styleable>
+</resources>
